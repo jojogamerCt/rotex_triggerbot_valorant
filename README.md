@@ -9,7 +9,7 @@ Rotex TriggerBot is an advanced Valorant triggerbot developed in Python. This tr
 
 ## Features
 
-- Supports three different target colors: red, purple, and yellow.
+- Supports only the Purple color.
 - Customizable toggle key to activate and deactivate the triggerbot.
 - Adjustable delay for each shot to suit your weapon's firing rate.
 - Auto-saves user preferences (color choice, toggle key, and delay) to `config.txt`.
@@ -44,7 +44,6 @@ Customization
 ---------------------
 You can customize the following settings in the `config.txt` file:
 
-- `color_choice`: Choose the target color (1 for red, 2 for purple, 3 for yellow).
 - `toggle_key`: Set the key to toggle the Rotex TriggerBot (default is 't').
 - `delay`: Adjust the delay for the Rotex TriggerBot (in seconds, default is 0.1).
 
