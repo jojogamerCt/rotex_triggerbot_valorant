@@ -31,10 +31,10 @@ Rotex TriggerBot is an advanced Valorant triggerbot developed in Python. This tr
 
 Usage
 ---------------------
-1. Edit the `config.txt` file to set your preferred color choice (1, 2, or 3), toggle key, and delay.
 
-2. Run the `valorant_triggerbot.py` Python script to start the Rotex TriggerBot:
+1. Run the `valorant_triggerbot.py` Python script to start the Rotex TriggerBot.
 
+2. Edit the `config.txt` file to set your preferred color choice (1, 2, or 3), toggle key, and delay.
 
 3. The Rotex TriggerBot will wait for you to press the toggle key specified in `config.txt` to activate it.
 
@@ -70,5 +70,4 @@ The Rotex TriggerBot project is licensed under the MIT License.
 
 ---
 
-Feel free to copy and use the above content as your README.txt file in your GitHub repository. Happy coding and gaming! 🎮✨
 
