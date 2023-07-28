@@ -12,7 +12,7 @@ Rotex TriggerBot is an advanced Valorant triggerbot developed in Python. This tr
 - Supports only the Purple color.
 - Customizable toggle key to activate and deactivate the triggerbot.
 - Adjustable delay for each shot to suit your weapon's firing rate.
-- Auto-saves user preferences (color choice, toggle key, and delay) to `config.txt`.
+- Auto-saves user preferences (toggle key and delay) to `config.txt`.
 - Captivating ASCII art logo displayed in the terminal for a visually appealing experience.
 
 ## Installation
