@@ -20,7 +20,7 @@ Rotex TriggerBot is an advanced Valorant triggerbot developed in Python. This tr
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/Rotex-TriggerBot.git
+   git clone https://github.com/jojogamerCt/rotex_triggerbot_valorant.git
    cd Rotex-TriggerBot
 
    
