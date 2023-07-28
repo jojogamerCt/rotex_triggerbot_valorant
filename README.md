@@ -26,7 +26,6 @@ Rotex TriggerBot is an advanced Valorant triggerbot developed in Python. This tr
    
 2. Run the `setup.bat` batch file to install the required Python libraries:
 
-   ```bash
    
 **Note**: Make sure you have Python installed on your system and added to the PATH environment variable.
 
