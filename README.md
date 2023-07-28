@@ -38,7 +38,7 @@ Usage
 
 3. The Rotex TriggerBot will wait for you to press the toggle key specified in `config.txt` to activate it.
 
-4. Hover your crosshair over a target with the chosen color, and the TriggerBot will automatically fire when activated.
+4. Hover your crosshair over a target and the TriggerBot will automatically fire when activated.
 
 Customization
 ---------------------
